@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../AI/code"
+		},
+		{
+			"path": "../../../../KHDL/code_KHDL"
+		},
+		{
+			"path": "../../../../PBL5"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "F8"
+	}
+}
